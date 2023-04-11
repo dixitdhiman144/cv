@@ -2,7 +2,7 @@ body { background-color: #EAF6F6;}
 
 hr {
   background-color: #EAF6F6;
-  <!--border-color: green; change whole means (rectangle) border-->
+    /* border-color: green; change whole means (rectangle) border */
     border-style: none;
     border-top-style: dotted;
     border-top-width: 5px;
