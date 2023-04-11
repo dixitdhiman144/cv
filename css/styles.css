@@ -1,0 +1,16 @@
+body { background-color: #EAF6F6;}
+
+hr {
+  background-color: #EAF6F6;
+  <!--border-color: green; change whole means (rectangle) border-->
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 5px;
+    border-top-color: grey;
+    /* border-height: 0px */
+    width: 8%;}
+
+img {height: 250px;}
+
+h1 {color: #66BFBF;}
+h3 {color: #66BFBF;}
